@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <h2 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-indigo-600 text-transparent bg-clip-text">
-              DigitalNet Pro
+              TeamUdo Pro
             </h2>
             <p className="text-muted-foreground">
-              Empowering network marketers with digital skills for the modern
+              Empowering network marketers with Earning skills for the modern
               age.
             </p>
           </div>
@@ -86,7 +86,7 @@ const Footer = () => {
         </div>
         <Separator className="my-8" />
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-muted-foreground text-sm">
-          <p>© 2024 DigitalNet Pro. All rights reserved.</p>
+          <p>© 2025 TeamUdoPro. All rights reserved.</p>
           <div className="flex space-x-4">
             <a href="#" className="hover:text-foreground transition-colors">
               Privacy Policy
